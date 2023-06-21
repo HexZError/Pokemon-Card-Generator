@@ -32,7 +32,7 @@ You can customize the design and layout of the Pokémon card by modifying the CS
 
 ## Contributing
 
-Contributions to this project are welcome. If you find any bugs or have suggestions for improvements, please submit an issue or a pull request on the [GitHub repository](https://github.com/your-username/pokemon-card-generator).
+Contributions to this project are welcome. If you find any bugs or have suggestions for improvements, please submit an issue or a pull request on the [GitHub repository](https://github.com/HexZError/Pokemon-Card-Generator.git).
 
 ## License
 
