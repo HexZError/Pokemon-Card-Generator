@@ -5,7 +5,7 @@ This project is a Pokémon Card Generator that allows users to generate random P
 
 ## Demo
 
-You can see a live demo of the Pokémon Card Generator [here](https://your-username.github.io/pokemon-card-generator/).
+You can see a live demo of the Pokémon Card Generator [here]([https://your-username.github.io/pokemon-card-generator/](https://main--prismatic-dango-f690e5.netlify.app/)).
 
 ## Prerequisites
 
